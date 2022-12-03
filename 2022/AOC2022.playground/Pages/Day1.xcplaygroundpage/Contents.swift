@@ -2,7 +2,6 @@
 
 import Foundation
 
-
 //
 if let a = readfile() {
     let elves = a.split(separator: "\n\n")
